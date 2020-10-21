@@ -1,37 +1,87 @@
-## Welcome to GitHub Pages
+1. How to host a resume
+this is a test?
+# Purpose
+To describe the practical steps of how to host and format a resume using Markdown, a markdown editor, github pages, jekyll
+# Prerequisites
+* Knowledge of Markdown
+* Github account
+* Markdown editor
 
-You can use the [editor on GitHub](https://github.com/Adam-Codes/adam-codes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# Audience Profile
+**Audience**: CS Student
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Venue**: README in Gihub Pages
 
-### Markdown
+**Additional purpose**: Introduce and demo principles of Andrew Etter's book Modern Technical Writing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Desired reaction**: Encouraged, feeling that they can achieve the outcome and more
 
-```markdown
-Syntax highlighted code block
+**Vocabulary**: Technical, jargon
 
-# Header 1
-## Header 2
-### Header 3
+**Tone**: Casual, yet cosice
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Content to cover
+1. format a resume using markdown
+2. host using github pages
+3. configuring Jekyll from github
 
-[Link](url) and ![Image](src)
+# How do host your resume using github pages
+**prerequisite** :
+* github account
+* Basic knowledge of github version control
+## Steps
+### 1. Create a new reposity (ensure that it is public)
+![](important.png)The name of the repository needs to be named `<accountname>.github.io`
+![](host11.png)    
+    
+### 2. This will create a reposity that will act as your webpage host.
+If you go to your repository name  `<accountname>.github.io`in the webbrowser, you will view the repository
+### 3. Style the site with Jekyll
+Go to settings ![](host3.png)    
+
+scroll down to the *GitHub pages* section.
+
+Select 'Change theme' ![](host32.png)
+
+Select and apply your Jekyll theme
+
+Now when you go to resume you will view your resume in md
+
+# How to format a resume using MarkDown
+## Markdown?
+
+#### The basic building blocks of markdown are:
+There are different flavors and more complexities to markdown that you can pursue if you are interested, but for the purposes of this README this should be sufficient to understand the basics of creating a resume in markdown
+> `#`  - Header   (`#` followed by space)
+>
+> `**` - **Bold** (`**Bold**`)
+>
+> `*`  - Bullets  (`*` followed by space)
+>
+> `_`  - _Italic_ (`_Italic_`)
+
+## Nuts and bolts
+Organize your resume with headers that are consistent and make sense
+provide additional link to markdown
+provide the basics
+
+Headers H1-H6 which are used via the `#` the H number corresponds to the number of hashtags to use in descending order.
+Example:
+``` 
+# This is the largest header h1
+## this is the second largest header h2
+.
+.
+.
+###### This is the smallest header h6
 ```
+># This is the largest header h1
+>## this is the second largest header h2
+>### .
+>#### .
+>##### .
+>###### This is the smallest header h6
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Adam-Codes/adam-codes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Use the building blocks to continue to organize the desired components of your resume
