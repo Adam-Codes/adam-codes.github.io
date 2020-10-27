@@ -85,15 +85,3 @@ The focus of the club is practical coding skills and professional development/su
 An intensive practice event, focusing on fundamentals of software development and design.
 #### CSSA Programming Contest (participant)						        	 February 2019
 Programming contest hosted by the Computer Science Student Association at the University of Manitoba.
-
-
-
-## INTERESTS AND ACTIVITIES
-
-
-#### Car Enthusiast: 
-From mundane, everyday cars to supercars, I have always been interested in car reviews, reliability ratings, values and technological advancements. I try to perform all car repair maintenance and repairs myself (YouTube taught), I enjoy the process, the feeling of empowerment and sense of satisfaction of repairing and maintaining my own vehicle.
-
-#### Board/Card Games: 
-I love the social dynamic that board/card games create. It seems to be becoming increasingly more rare for friends to physically get together but board/card provide the perfect incentive. In my opinion, we are in the renaissance of board games; they’ve never been more interesting/innovative and FUN to play as a group!
-
