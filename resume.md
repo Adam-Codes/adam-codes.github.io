@@ -29,8 +29,8 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### `Software Developer, Co-op work term 2                                                  Jan 2020 - Apr 2020`
-#### `Bold Commerce`
+### Software Developer, Co-op work term 2                                                  Jan 2020 - Apr 2020
+#### **Bold Commerce**
 During my time with Bold Commerce, I was able to gain experience and contribute throughout Bold’s tech stack, from front-end to back-end; including excellent test coverage. Among the technical work, I was also able to work with and contribute to the Bold Brain team dynamic and had the privilege of leading the team through a documentation workshop to help create a shared team documentation “manifesto”.
 
 * Assisted in front-end architecture refactor through creation of a design pattern to allow greater extensibility and maintainability.
@@ -38,8 +38,8 @@ During my time with Bold Commerce, I was able to gain experience and contribute 
 * Automated a manual, reoccurring team task through the use of a Slack bot (Node.js).
 * Wrote extensive end-2-end & unit testing to increase the reliability and stability of production code.
 
-### `Software Developer, Co-op work term 1                                                  May 2019 - Aug 2019`
-#### `Resolute TS`
+### Software Developer, Co-op work term 1                                                  May 2019 - Aug 2019
+#### **Resolute TS**
 Resolute TS is a consulting company that assists businesses to achieve their technological needs, from IT outsourcing, staffing, and general IT services to software development solutions.
 Using Agile methodologies; developed a full-stack project using SpringBoot, REST services and creation of and communication with various Docker microservices. This project was designed to accept client information as JSON data and to prepare the information to automate Office 365 and NT login creation. 
 
@@ -50,8 +50,8 @@ Requirements for the application included SOLID principles to allow for the abil
 * Scale depth (automate additional tasks).
 * Modify and configure existing implementation with minimal development needed (through the use of configuration files).
 
-### `Operations Manager  			      			   2011 – 2017`
-#### `Shaw Communications`
+### Operations Manager  			      			   2011 – 2017
+#### **Shaw Communications**
 Accountable for all operations and meeting/exceeding key metrics for large contact center operations. Facilitated process improvements, change management and efficiency in operations while building an engaged and inspired workforce.
 
 * Assisted with the development of internal tools (requirements, user experience design, processes) such as equipment provisioning tools, as well as internal communication tools and knowledge bases.
@@ -74,7 +74,7 @@ Using Android Studio in Java using an n-tier architecture, git version control a
 Conducted user research to understand the problem as well as effectiveness of UX design using a low-fidelity prototype. Based on our research we developed a high-fidelity prototype using HTML, CSS and Javascript.
 Contributed through full-stack development of a prototype for a friend matching system.
 
-#### MEMBERSHIPS AND EVENTS
+### MEMBERSHIPS AND EVENTS
 
 ##### Bold’s innovate or die days, hackathon							     March 2020
 Project to implement API documentation using OpenAPI spec and Swagger.io.
@@ -88,7 +88,7 @@ Programming contest hosted by the Computer Science Student Association at the Un
 
 
 
-#### INTERESTS AND ACTIVITIES
+### INTERESTS AND ACTIVITIES
 
 
 ##### Car Enthusiast: 
