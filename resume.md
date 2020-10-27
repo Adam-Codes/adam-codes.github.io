@@ -14,6 +14,7 @@
 
 ## TECHNICAL SKILLS
 | Languages/Freameworks | Tools | Data |
+
 |-------|--------|---------|
 | REST Services, APIs | JUnit, PowerMock, Mockery | MongoDB |
 | Typescript, Angular | Test Driven Development | JsonPath |
