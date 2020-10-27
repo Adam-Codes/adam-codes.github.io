@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 title: How to host a resume
 
+#this solution to make the tables work is found here 
+# https://stackoverflow.com/questions/26844701/lists-in-markdown-table-with-jekyll
 markdown: redcarpet
 redcarpet:
   extensions:
