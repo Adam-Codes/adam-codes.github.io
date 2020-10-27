@@ -74,26 +74,26 @@ Using Android Studio in Java using an n-tier architecture, git version control a
 Conducted user research to understand the problem as well as effectiveness of UX design using a low-fidelity prototype. Based on our research we developed a high-fidelity prototype using HTML, CSS and Javascript.
 Contributed through full-stack development of a prototype for a friend matching system.
 
-### MEMBERSHIPS AND EVENTS
+## MEMBERSHIPS AND EVENTS
 
-##### Bold’s innovate or die days, hackathon							     March 2020
+#### Bold’s innovate or die days, hackathon							     March 2020
 Project to implement API documentation using OpenAPI spec and Swagger.io.
-##### Student Member, University of Manitoba’s .DevClub                                                2017 - Present
+#### Student Member, University of Manitoba’s .DevClub                                                2017 - Present
 .DevClub allows computer science students the opportunity to meet, collaborate and learn from each other. 
 The focus of the club is practical coding skills and professional development/support.
-##### ACE Code Retreat										         November 2017
+#### ACE Code Retreat										         November 2017
 An intensive practice event, focusing on fundamentals of software development and design.
-##### CSSA Programming Contest (participant)						        	 February 2019
+#### CSSA Programming Contest (participant)						        	 February 2019
 Programming contest hosted by the Computer Science Student Association at the University of Manitoba.
 
 
 
-### INTERESTS AND ACTIVITIES
+## INTERESTS AND ACTIVITIES
 
 
-##### Car Enthusiast: 
+#### Car Enthusiast: 
 From mundane, everyday cars to supercars, I have always been interested in car reviews, reliability ratings, values and technological advancements. I try to perform all car repair maintenance and repairs myself (YouTube taught), I enjoy the process, the feeling of empowerment and sense of satisfaction of repairing and maintaining my own vehicle.
 
-##### Board/Card Games: 
+#### Board/Card Games: 
 I love the social dynamic that board/card games create. It seems to be becoming increasingly more rare for friends to physically get together but board/card provide the perfect incentive. In my opinion, we are in the renaissance of board games; they’ve never been more interesting/innovative and FUN to play as a group!
 
