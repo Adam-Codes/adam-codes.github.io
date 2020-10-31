@@ -3,3 +3,5 @@
 [how to host a resume](README)
 
 An exmaple [my resume](resume)
+
+[FAQS](faq)
