@@ -115,6 +115,11 @@ The address for your new webpage is `<accountname>.github.io`
 
 Now when you go to resume you will view your resume in md
 
-
+## How to get content onto github
+options:
+* live / raw editor
+This is what we will be covering today. If you would like to use one of the tools listed below, I will assume you have enough experience to have that preference and that you know what you are doing
+* terminal
+* desktop client
 
 
