@@ -1,3 +1,11 @@
+
+---
+title: How to host a resume using GitHub Pages
+permalink: /test/
+---
+
+
+
 # How to host a resume using GitHub pages
 
 ## Audience Profile
