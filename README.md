@@ -1,7 +1,5 @@
-
 ---
 title: How to host a resume using GitHub Pages
-permalink: /test/
 ---
 
 
