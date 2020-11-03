@@ -3,6 +3,16 @@ title: How to host a resume using GitHub Pages and Markdown
 ---
 
 # How to host a resume using GitHub pages
+## Summary
+- [Intended Audience](#audience-profile)
+- [Prerequisites](#prerequisites)
+- [Introduction](#what-we-are-doing...)
+- [Tutorial](#lets-get-started)
+- [More resources](#more-resources)
+- [Author and Acknowledgements](#Authors-and-Acknowledgments)
+- [FAQs](#faqs)
+
+
 
 ## Audience Profile
 **Audience**: CS Student
@@ -17,7 +27,7 @@ title: How to host a resume using GitHub Pages and Markdown
 
 **Tone**: Casual, familiar, yet concise
 
-#### Prerequisites:
+## Prerequisites:
 * GitHub account
 * basic understanding of GitHub version control
 * Your resume formatted in Markdown
@@ -25,7 +35,7 @@ title: How to host a resume using GitHub Pages and Markdown
 
 ----
 ## What we are doing...
-A resume is critical to computer science employment. Every job applied for will require an accompanying resume that covers one's skills and abilities that are relevant to the position being applied for.
+A resume is critical to computer science employment. Every job applied for will require an accompanying resume that covers one's skills and abilities that are relevant to the position being applied for. These steps and tool usages are based on the recommendations from Andrew Etter his book, "Modern Technical Writing" see [More Resources](#more-resources) to learn more about the book.
 
 A simple, modern way to share and host a resume is through the use of a combination of technologies, namely:
 1. Jekyll - static site generator
@@ -58,7 +68,7 @@ We don't need to over-engineer a solution that will be more trouble than it's wo
     * Lightweight markdown language, combined with Jekyll allows for easy styling and beautiful looking static content with minimal effort
 
 * Using GitHub makes you look more "technical" to employers
-    * Wherever you work, version control will be essential, this demonstrates proficiency with github (because you truly will be gaining experience)
+    * Wherever you work, version control will be essential, this demonstrates proficiency with GitHub (because you truly will be gaining experience)
 
 
 <img src="https://thumbs.gfycat.com/IdealisticEthicalGreathornedowl-max-1mb.gif" alt="Michael Scott - Win Win Win gif" title="Michael Scott - Win Win Win gif" width="300" />
@@ -153,7 +163,7 @@ This is a surprisingly complex topic and you will spend your career learning abo
 1. Create a new file
     * Click **Add File**.
     * Select **Create new file**.
-    * Name the file `resume.md`
+    * Name the file `index.md`
 2. Paste content
     * Paste your markdown content (created in your Markdown editor of choice) into the file.
 >Note: You can use the **Preview** tab to take a quick peek and ensure the content looks the way you expect.
@@ -170,13 +180,14 @@ This is a surprisingly complex topic and you will spend your career learning abo
 
 * [Learn markdown](https://guides.github.com/features/mastering-markdown/)
 
-* The concepts from this tutorial have been based on the concepts from Andrew Etter's book [Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* The concepts and tool recommendations from this tutorial have been based on the concepts from Andrew Etter's book [Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 ## Authors and Acknowledgments
+
 **Author:** Adam Andritz
 
-**Template Author** Jekyll - Cayman
+**Template Author:** Jekyll - Cayman
 
-**Contributors** \<Group Members\>
+**Group Members:** Renan Desconsi Turra, Tuan Ngo
 
 ## FAQs
 #### I made a change to my page and saved/committed it, but I don't see the change when I refresh my browser
