@@ -5,8 +5,8 @@ title: How to host a resume using GitHub Pages and Markdown
 # How to host a resume using GitHub pages
 ## Summary
 - [Prerequisites](#prerequisites)
-- [Introduction](#Getting-Started)
-- [Tutorial](#lets-get-started)
+- [Introduction](#Introduction)
+- [Tutorial](#Tutorial)
 - [More resources](#more-resources)
 - [Author and Acknowledgements](#Authors-and-Acknowledgments)
 - [FAQs](#faqs)
@@ -19,7 +19,7 @@ title: How to host a resume using GitHub Pages and Markdown
 
 
 ----
-## What we are doing...
+## Introduction
 A resume is critical to computer science employment. Every job applied for will require an accompanying resume that covers one's skills and abilities that are relevant to the position being applied for. These steps and tool usages are based on the recommendations from Andrew Etter his book, "Modern Technical Writing" see [More Resources](#more-resources) to learn more about the book.
 
 A simple, modern way to share and host a resume is through the use of a combination of technologies, namely:
@@ -60,7 +60,7 @@ Hosting a resume on GitHub Pages in combination with a static site generator suc
 
 
 
-## Getting Started
+## Tutorial
 ### Setting up our tools
 #### [GitHub](https://github.com)
 >Github has a feature called GitHub Pages which allows one repository to act as a static website.
