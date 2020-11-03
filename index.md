@@ -4,7 +4,6 @@ title: How to host a resume using GitHub Pages and Markdown
 
 # How to host a resume using GitHub pages
 ## Summary
-- [Intended Audience](#audience-profile)
 - [Prerequisites](#prerequisites)
 - [Introduction](#Getting-Started)
 - [Tutorial](#lets-get-started)
@@ -12,20 +11,6 @@ title: How to host a resume using GitHub Pages and Markdown
 - [Author and Acknowledgements](#Authors-and-Acknowledgments)
 - [FAQs](#faqs)
 
-
-
-## Audience Profile
-**Audience**: CS Student
-
-**Venue**: README in GitHub Pages
-
-**Additional purpose**: Introduce and demo principles of Andrew Etter's book Modern Technical Writing
-
-**Desired reaction**: Encouraged, feeling that they can achieve the outcome and more
-
-**Vocabulary**: Technical, jargon
-
-**Tone**: Casual, familiar, yet concise
 
 ## Prerequisites:
 * GitHub account
@@ -50,7 +35,7 @@ Authoring a webpage and hosting it can range in flexibility and complexity and o
 2. Host our resume (in Markdown) on GitHub Pages and 
 3. Make our resume look professional by styling it using Jekyll templates to generate our static site
 
-We don't need to over-engineer a solution that will be more trouble than it's worth; we want a solution that is dead simple, easy to maintain and leaves us with the capability to expand or change technologies in the future. Hosting a resume on GitHub Pages in combination with a static site generator such as Jekyll gives us many advantages:
+Hosting a resume on GitHub Pages in combination with a static site generator such as Jekyll gives us many advantages:
 
 * Use of a popular distributed version control system (DVCS)
     * Allows others to easily contribute; now or in the future.
@@ -78,8 +63,7 @@ We don't need to over-engineer a solution that will be more trouble than it's wo
 ## Getting Started
 ### Setting up our tools
 #### [GitHub](https://github.com)
->GitHub is a distributed version control system(DVCS). It is popular and free. 
-Github has a feature called github pages which allows one repository to act as a static website. DVCS allow for multiple people working on the same document, on or offline with versioning built in. For the purposes of this activity, it would allow you to keep a versioned history of your resume changes. It could potentially allow a colleague or friend to contribute to your resume, or provide feedback. If you don't have experience, it is an excellent tool to get your foot in the door. You will use some form of it for the rest of your career
+>Github has a feature called GitHub Pages which allows one repository to act as a static website.
 One simply needs to create or use their existing github account, use a markdown editor of choice. 
 
 If you don't currently have a github account, it's an excellent time to [create one](www.github.com).
@@ -98,10 +82,6 @@ When just starting out learning it's important to keep it simple, therefore I re
     Dillinger shown below:
 ![Dillinger screenshot](dillinger.png)
 
-
-
-If you are lacking confidence, [Dillinger](www.dillinger.io) is the simplest way to get started and provides a live preview that will allow you learn quickly through experimentation. However, this is a great time to get your feet wet with some tools you will likely use in your future computer science career; so just use [VS Code](https://code.visualstudio.com).
-
 >Personally, I prefer VS Code, as it's a tool I am familiar with and is widely used in the computer science community. The extensions make this application infinitely customizable and make you feel like a hacker.
 >
 >![hackerman gif](https://media.giphy.com/media/26tPnAAJxXTvpLwJy/giphy.gif)
@@ -110,28 +90,25 @@ If you are lacking confidence, [Dillinger](www.dillinger.io) is the simplest way
 
 >[Jekyll](https://jekyllrb.com) is a Static site generator that Takes our lightweight markup language and turns it into a working website. Allowing you to apply styling, templates and configuration.
 
->Markdown lightweight markup language (specifically [GitHub flavored markdown](https://github.github.com/gfm/#what-is-github-flavored-markdown-)). Similar to html, is more focused on providing context to content but easy to learn, easy to read
 
 The ability to use Jekyll & markdown is built right into GitHub Pages! There is nothing we need to do, GitHub takes care of the dirty work for us. Woo Woo! Told you it was simple!)
 >![](woowoo.gif)
-### Write/Convert your resume to Markdown language
-There are many guides and Markdown is quick and simple to learn. Here's a guide I recommend to
-[learn Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ### Configure GitHub pages
 In order for us to host a webpage, we need a place to host it. This can be done through the following steps: 
-### 1. Create a new \<accountname\>.github.io reposity
+#### 1. Create a new \<accountname\>.github.io reposity
 <img src="important.png" alt="Kitten" title="A cute kitten" width="25" /> The name of the repository is important. It **needs** to be prefixed with your Github account name: `<accountname>.github.io` as  shown below:
 
 >![](host11.png)    
     
-### 2. Select a Jekyll style
+#### 2. Select a Jekyll style
 Go to **Settings** for our newly created repository
 
-### 3. Scroll down to the *GitHub Pages* section.
+#### 3. Scroll down to the *GitHub Pages* section.
 As shown below:
 >![](host32.png)
-### 4. Select your desired theme
+#### 4. Select your desired theme
 Scroll through to see the example templates, when you find one you like press **Select theme**, as shown in the gif below:
 
 >![](jekylltheme.gif)
@@ -149,13 +126,10 @@ Thanks to the use of GitHub as a DVCS, we have a number of ways in which we can 
 
 For brevity purposes I will describe how to use the web interface, but if you have any experience with GitHub I trust you can happily use the method of your preference. 
 
-For the purposes of this walk-through, I will describe how to use the web interface and leave it to you to use or learn which format suits you best. Most employers would expect some experience using git from terminal. To gain the benefits (and experience) of using git version control one should really use the terminal.
-If you run into trouble, you are going to have to use your google ninja / stack overflow skills. You've been warned.
-[Here is a great place to start](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners) if you would like to go down that rabbit hole.
 
-The steps below will get you started and introduces you to the absolute minimum (or some would argue not even that) of Git and version control. Professional use of git would include a specific branching strategy instead of just using one branch `main` in our example below. This is just enough to get you started (and into trouble).
-This is a surprisingly complex topic and you will spend your career learning about it. If you run into trouble you are going to have to rely on your StackOverflow and Google-fu skills; just as you will later in your career.
- > You owe it to yourself to **invest** the 10 minutes of time it would take to read the [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+The steps below will get you started and introduces you to the absolute minimum (or some would argue not even that) of Git and version control.
+This is a surprisingly complex topic and you will spend your career learning about it. Check [More Resources](#more-resources)
+
 
 ### Creating your content
 Next we will be uploading our content (resume) to GitHub, as shown in the gif below:
@@ -183,6 +157,8 @@ Next we will be uploading our content (resume) to GitHub, as shown in the gif be
 * [Learn markdown](https://guides.github.com/features/mastering-markdown/)
 
 * The concepts and tool recommendations from this tutorial have been based on the concepts from Andrew Etter's book [Modern Technical Writing](https://www.amazon.com/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
+* Learn more about git as a concept using the [Git Handbook](https://guides.github.com/introduction/git-handbook/)
+
 ## Authors and Acknowledgments
 
 **Author:** Adam Andritz
