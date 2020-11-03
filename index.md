@@ -6,7 +6,7 @@ title: How to host a resume using GitHub Pages and Markdown
 ## Summary
 - [Intended Audience](#audience-profile)
 - [Prerequisites](#prerequisites)
-- [Introduction](#what-we-are-doing...)
+- [Introduction](#Getting-Started)
 - [Tutorial](#lets-get-started)
 - [More resources](#more-resources)
 - [Author and Acknowledgements](#Authors-and-Acknowledgments)
@@ -75,7 +75,7 @@ We don't need to over-engineer a solution that will be more trouble than it's wo
 
 
 
-## Let's get started
+## Getting Started
 ### Setting up our tools
 #### [GitHub](https://github.com)
 >GitHub is a distributed version control system(DVCS). It is popular and free. 
