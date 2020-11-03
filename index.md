@@ -31,7 +31,7 @@ title: How to host a resume using GitHub Pages and Markdown
 * GitHub account
 * basic understanding of GitHub version control
 * Your resume formatted in Markdown
-    * It is incredibly fast to [learn markdown](https://guides.github.com/features/mastering-markdown/)
+
 
 ----
 ## What we are doing...
@@ -89,10 +89,15 @@ If you don't currently have a github account, it's an excellent time to [create 
 >Markdown editor provides syntax highlighting, word completion  making it easier to read and write in markdown language. Often allowing for a live preview and best of all, these options are free.
 
 When just starting out learning it's important to keep it simple, therefore I recommend two options for markdown editors:
-1. [VS Code](https://code.visualstudio.com) (can be made more **powerful** with the use of [Markdown related extensions](https://marketplace.visualstudio.com/search?term=markdown&target=VSCode&category=All%20categories&sortBy=Relevance))
+1. [VS Code](https://code.visualstudio.com) can be made more **powerful** with the use of [Markdown related extensions](https://marketplace.visualstudio.com/search?term=markdown&target=VSCode&category=All%20categories&sortBy=Relevance)
+
+    VS Code shown below:
 ![VS Code screenshot](vscode.png)
 2. An online editor such as [Dillinger](https://dillinger.io)
+
+    Dillinger shown below:
 ![Dillinger screenshot](dillinger.png)
+
 
 
 If you are lacking confidence, [Dillinger](www.dillinger.io) is the simplest way to get started and provides a live preview that will allow you learn quickly through experimentation. However, this is a great time to get your feet wet with some tools you will likely use in your future computer science career; so just use [VS Code](https://code.visualstudio.com).
@@ -116,25 +121,21 @@ There are many guides and Markdown is quick and simple to learn. Here's a guide 
 ### Configure GitHub pages
 In order for us to host a webpage, we need a place to host it. This can be done through the following steps: 
 ### 1. Create a new \<accountname\>.github.io reposity
-<img src="important.png" alt="Kitten" title="A cute kitten" width="25" /> The name of the repository is important. It **needs** to be prefixed with your Github account name: `<accountname>.github.io`
+<img src="important.png" alt="Kitten" title="A cute kitten" width="25" /> The name of the repository is important. It **needs** to be prefixed with your Github account name: `<accountname>.github.io` as  shown below:
 
 >![](host11.png)    
     
 ### 2. Select a Jekyll style
 Go to **Settings** for our newly created repository
 
->![](host3.png)    
-
 ### 3. Scroll down to the *GitHub Pages* section.
-
+As shown below:
 >![](host32.png)
-### 4. Select '**Change theme**' 
-
-
-### 5. Select your desired theme
-Scroll through to see the example templates, when you find one you like press **Select theme**
+### 4. Select your desired theme
+Scroll through to see the example templates, when you find one you like press **Select theme**, as shown in the gif below:
 
 >![](jekylltheme.gif)
+
 Voila!
 That is all we need for the basic configuration; I told you it was dead simple.
 The address for your new webpage is `<accountname>.github.io`
@@ -157,6 +158,7 @@ This is a surprisingly complex topic and you will spend your career learning abo
  > You owe it to yourself to **invest** the 10 minutes of time it would take to read the [Git Handbook](https://guides.github.com/introduction/git-handbook/)
 
 ### Creating your content
+Next we will be uploading our content (resume) to GitHub, as shown in the gif below:
 ![](resumeMD.gif)
 
 #### From the Main / **Code** Tab
