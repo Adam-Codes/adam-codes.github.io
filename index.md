@@ -25,7 +25,7 @@ A resume is critical to computer science employment. Every job applied for will 
 A simple, modern way to share and host a resume is through the use of a combination of technologies, namely:
 1. Jekyll - static site generator
 2. Github Pages - webpage host
-3. Markdown with editor - our [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language)
+3. Markdown with editor - our Lightweight Markup Language
 
 There are many options to host a website and just as many ways in which content and code can be written for those websites.
 Authoring a webpage and hosting it can range in flexibility and complexity and one would be wise to match the tool to the task at hand. 
